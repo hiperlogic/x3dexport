@@ -10,4 +10,12 @@ Some sensors export were added and their application are made by setting a named
 
 This project was developed in 2004 as the first Blender and Python project I created and was set to solve issues for a virtual reality project.
 
-It needs optimizations and is not being maintened.
+It needs optimizations and currently is not being maintened.
+
+How to use it:
+
+Start blender in a shell, redirecting the shell exit to a file.
+Open the scene in blender
+Open the code in blender python editor
+Execute the code within blender python editor
+Exit blender and edit the first lines of the redirected file.
